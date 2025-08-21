@@ -221,3 +221,7 @@ Rekomendasi bersifat **edukatif**. Selalu periksa **komposisi resmi** dan **kond
 - Integrasi **gambar** dan **tautan langsung** ke halaman official.
 
 ---
+
+## Bug
+
+- Masih Terdapat Bug ketika Menambahkan Url Gambar Untuk Produk
